@@ -1,5 +1,5 @@
 # Data Structures And Sorting Algorithms
-
+```
 |--- /Data_Structures
 |    |--- BinarySearchTree
 |    |--- BinaryTree
@@ -7,3 +7,4 @@
 |
 |--- /Sorting Algorithms
      |--- HeapSort
+```
