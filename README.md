@@ -4,9 +4,9 @@
 │   ├── BinarySearchTree
 │   ├── BinaryTree
 │   ├── SinglyLinkedList
-│   └──
-├── /Sorting Algorithms
+│   
+└── /Sorting Algorithms
     ├──HeapSort
-    ├──
+    ├──BubbleSort
     └──
 ```
