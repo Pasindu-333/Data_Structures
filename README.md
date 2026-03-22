@@ -6,7 +6,11 @@
 │   ├── SinglyLinkedList
 │   
 └── /Sorting Algorithms
-    ├──HeapSort
-    ├──BubbleSort
-    └──MergeSort
-```
+    ├── HeapSort
+    ├── BubbleSort
+    ├── MergeSort
+    ├── SelectionSort
+    ├── 
+
+    
+``` 
