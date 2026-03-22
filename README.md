@@ -8,5 +8,5 @@
 └── /Sorting Algorithms
     ├──HeapSort
     ├──BubbleSort
-    └──
+    └──MergeSort
 ```
