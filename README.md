@@ -4,7 +4,10 @@
 │   ├── BinarySearchTree
 │   ├── BinaryTree
 │   ├── SinglyLinkedList
-│   
+│   ├── HashTable
+│   ├── HashTableLinkedList
+│
+│
 └── /Sorting Algorithms
     ├── HeapSort
     ├── BubbleSort
