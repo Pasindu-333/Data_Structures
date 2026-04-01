@@ -6,6 +6,7 @@
 │   ├── SinglyLinkedList
 │   ├── HashTable
 │   ├── HashTableLinkedList
+│   ├── Graphs
 │
 │
 └── /Sorting Algorithms
