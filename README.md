@@ -7,6 +7,8 @@
 │   ├── HashTable
 │   ├── HashTableLinkedList
 │   ├── Graphs
+│   ├── MST
+│   ├── GraphsBFS
 │
 │
 └── /Sorting Algorithms
