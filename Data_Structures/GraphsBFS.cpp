@@ -4,6 +4,7 @@
 #include<queue>
 
 using namespace std;
+
 vector<int> bfs(int n, int m, vector<vector<int>> edges, int s) {
 
     vector<vector<int>> adj(n + 1);
